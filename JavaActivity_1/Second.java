@@ -1,7 +1,7 @@
 package com.ltts;
 public class Second {
  public static void main(String[] args) {    
-	 char ch = 'O';
+	 char ch = 'a';
     switch(ch)  
     {  
         case 'a':   
