@@ -1,5 +1,5 @@
 package com.ltts;
-import java .util.Scanner;
+import java.util.Scanner;
 public class First {
 	  static int sum=0;  
       public static void main(String[] args) {
