@@ -2,7 +2,7 @@ package com.ltts;
 import java.util.*;
 public class Q_3{
 	static String name;
-    static String team;
+        static String team;
 	static String skill;
 	static int capnumber;
 	public static void main(String args[]){  
